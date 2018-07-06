@@ -10,3 +10,29 @@
 .text1{
   font-size: 25px;
 }
+.column{
+  float:left;
+  width: 25%;
+}
+.meal{
+  width: 317.5px;
+}
+.text2{
+  position: absolute;
+  top: 85%;
+  left:35%;
+  color:white;
+}
+.text3{
+  position: absolute;
+  top: 85%;
+  left: 61%;
+  color: white;
+  font-family:fantasy;
+}
+.text4{
+  position: absolute;
+  top: 85%;
+  left:85%;
+  color: white;
+}
