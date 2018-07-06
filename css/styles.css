@@ -36,3 +36,11 @@
   left:85%;
   color: white;
 }
+.top{
+  padding: 22px;
+  background-color: grey;
+}
+.bottom{
+  padding: 23px;
+  background-color: silver;
+}
