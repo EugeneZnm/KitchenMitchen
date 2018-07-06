@@ -1,0 +1,12 @@
+.landing{
+  background-image: url("../images/backgrounds/landing.jpg");
+  text-align: center;
+  height: 500px;
+}
+.white{
+  color: white;
+  font-weight: bold;
+}
+.text1{
+  font-size: 25px;
+}
