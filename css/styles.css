@@ -55,5 +55,11 @@
 }
 
 .release {
-    margin-top: 4em;
+    margin-top: 6em;
+}
+
+.tabsection {
+    background-image: url("../images/backgrounds/foodsBg.jpg");
+    height: 500px;
+    margin-top: 6em;
 }
