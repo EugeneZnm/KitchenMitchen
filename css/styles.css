@@ -105,3 +105,43 @@
     margin-right: 6em;
     padding: 20px;
 }
+
+.png {
+    margin-right: -1em;
+}
+
+.newsletter {
+    background-image: url("../images/subscribe.jpg");
+    height: 300px;
+}
+
+.text8 {
+    color: white;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 30px;
+    position: relative;
+    top: 35%;
+}
+
+.input group {
+    width: 50%;
+}
+
+.btn {
+    background-color: orangered;
+    position: relative;
+    top: 40%;
+}
+
+#inputfield {
+    opacity: 0.5;
+    width: 300px;
+}
+
+.email {
+    position: relative;
+    top: 40%;
+    left: 35%
+}
