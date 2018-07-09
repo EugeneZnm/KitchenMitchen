@@ -202,3 +202,13 @@
 .foodstext {
     font-family: fantasy;
 }
+
+.boxed {
+    height: 50px;
+    width: 1000px;
+    background-color: #ffffff;
+    position: relative;
+    left: 17%;
+    bottom: 40%;
+    margin-top: 5em;
+}
