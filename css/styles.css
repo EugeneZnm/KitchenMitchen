@@ -75,3 +75,16 @@
     border-width: 20px;
     border-color: #ffffff;
 }
+
+.column1 {
+    column-count: 2;
+}
+
+.text6 {
+    color: orangered;
+    text-align: center;
+}
+
+.text7 {
+    text-align: center;
+}
