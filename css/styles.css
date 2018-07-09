@@ -131,8 +131,7 @@
 
 .btn {
     background-color: orangered;
-    position: relative;
-    top: 40%;
+    color: white;
 }
 
 #inputfield {
@@ -144,4 +143,44 @@
     position: relative;
     top: 40%;
     left: 35%
+}
+
+.footer {
+    background-color: orangered;
+    height: 250px;
+}
+
+.footerimage {
+    margin-top: 6em;
+    position: relative;
+    top: 40%;
+    left: 45%;
+}
+
+.footertext {
+    color: #ffffff;
+    font-size: 30px;
+    margin-top: 1em;
+}
+
+#footermenu {
+    position: relative;
+    left: 50%;
+    top: 0.5%;
+    margin-top: -1.3em;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+}
+
+.footertext1 {
+    position: relative;
+    left: 46.5%;
+    color: white;
+    margin-top: 1em;
+    font-family: fantasy;
+}
+
+.footerlogos {
+    position: relative;
+    left: 46.5%;
 }
