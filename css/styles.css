@@ -29,6 +29,10 @@
     color: white;
 }
 
+.new-landing img:hover {
+    color: grey;
+}
+
 .text3 {
     position: absolute;
     top: 90%;
@@ -44,14 +48,18 @@
     color: white;
 }
 
+.column img:hover {
+    color: grey;
+}
+
 .top {
     padding: 28.5px;
-    background-color: #ffffff;
+    background-color: #f15a29;
 }
 
 .bottom {
     padding: 28.5px;
-    background-color: #f15a29;
+    background-color: #ffffff;
 }
 
 .release {
@@ -211,4 +219,12 @@
     left: 17%;
     bottom: 40%;
     margin-top: 5em;
+}
+
+.well {
+    background-color: #ffffff;
+}
+
+.tabitem {
+    padding: 3em;
 }
