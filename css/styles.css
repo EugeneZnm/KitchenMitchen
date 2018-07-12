@@ -246,6 +246,34 @@ h4 {
 .fast1 {
     color: gray;
     padding-right: 3em;
-    margin-left: 3em;
-    background-color: light-grey;
+    background-color: lightgrey;
+    width: 250px;
+    text-align: center
+}
+
+.fast2 {
+    color: gray;
+    padding-right: 3em;
+    padding-left: 7em;
+    background-color: lightgrey;
+    width: 250px;
+    text-align: center
+}
+
+.fast3 {
+    color: gray;
+    padding-right: 3em;
+    padding-left: -7em;
+    background-color: lightgrey;
+    width: 250px;
+    text-align: center;
+}
+
+.fast4 {
+    color: gray;
+    padding-right: 3em;
+    padding-left: 7em;
+    background-color: lightgrey;
+    width: 250px;
+    text-align: center
 }
