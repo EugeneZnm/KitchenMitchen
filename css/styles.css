@@ -228,3 +228,24 @@
 .tabitem {
     padding: 3em;
 }
+
+.nav-link space {
+    text-align: center;
+    color: grey;
+}
+
+h4 {
+    text-align: center;
+    color: #f15a29;
+}
+
+.meals {
+    color: #f15a29;
+}
+
+.fast1 {
+    color: gray;
+    padding-right: 3em;
+    margin-left: 3em;
+    background-color: light-grey;
+}
