@@ -1,8 +1,8 @@
 #Annies Kitchen Website
 
 ##Description
- * A restaurant website highlighting the meals served at the restaurant along with feedback
-   from customers on their experiences in the restaurant.
+ * A website for a restaurant highlighting the meals served at the restaurant along with feedback
+   from customers on their experiences of the meals served in the restaurant.
 
 ###Author
   * Eugene Nzioki
